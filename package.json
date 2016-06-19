@@ -1,0 +1,23 @@
+{
+  "name": "sct-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for sct templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/sct-loader.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/sct-loader/issues"
+  },
+  "homepage": "https://github.com/Riim/sct-loader#readme",
+  "dependencies": {
+    "sct": "^1.0.0",
+    "sct-runtime": "^1.0.0"
+  }
+}
