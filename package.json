@@ -1,6 +1,6 @@
 {
   "name": "sct-loader",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Webpack loader for sct templates",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Riim/sct-loader#readme",
   "dependencies": {
     "loader-utils": "^0.2.15",
-    "sct": "^1.0.1",
+    "sct": "^1.1.1",
     "sct-runtime": "^1.0.0"
   }
 }
